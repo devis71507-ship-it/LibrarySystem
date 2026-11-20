@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="947" height="747" alt="image" src="https://github.com/user-attachments/assets/ffe6295e-213d-4ab2-aa67-59125a07c8a0" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="932" height="737" alt="image" src="https://github.com/user-attachments/assets/0db83d6c-2d7a-4748-b769-41142d809402" />
 
 
 # COMMUNICTION DIAGRAM:
